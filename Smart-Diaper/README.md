@@ -30,7 +30,7 @@ in the app and well as an email notification is recieved.
   
 
 
-![screenshot_2018-07-13-14-35-56-480_cc blynk](https://user-images.githubusercontent.com/41651033/43277905-1dd2c0f2-9127-11e8-8481-4ac7a4aa7b24.png)
+![screenshot_2018-07-13-14-35-56-480_cc blynk](https://user-images.githubusercontent.com/41651033/43277905-1dd2c0f2-9127-11e8-8481-4ac7a4aa7b24.png {width=40px height=400px})
 
 
 ![screenshot_2018-07-13-14-52-26-532_lockscreen](https://user-images.githubusercontent.com/41651033/43277983-57e45558-9127-11e8-97fa-c15ff70c0af8.png)
