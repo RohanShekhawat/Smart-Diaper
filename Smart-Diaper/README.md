@@ -31,11 +31,12 @@ in the app and well as an email notification is recieved.
 
 
 
-<img src="https://user-images.githubusercontent.com/41651033/43277905-1dd2c0f2-9127-11e8-8481-4ac7a4aa7b24.png" width="480">
+<img src="https://user-images.githubusercontent.com/41651033/43277905-1dd2c0f2-9127-11e8-8481-4ac7a4aa7b24.png" width="240">
 
 
-![screenshot_2018-07-13-14-52-26-532_lockscreen](https://user-images.githubusercontent.com/41651033/43277983-57e45558-9127-11e8-97fa-c15ff70c0af8.png)
+
+<img src="https://user-images.githubusercontent.com/41651033/43277983-57e45558-9127-11e8-97fa-c15ff70c0af8.png" width="240">
 
 
-![img-20180726-wa0022](https://user-images.githubusercontent.com/41651033/43278039-7f563b6a-9127-11e8-873c-2a3a6c8e163b.jpg)
+<img src="https://user-images.githubusercontent.com/41651033/43278039-7f563b6a-9127-11e8-873c-2a3a6c8e163b.jpg" width="240">
 
